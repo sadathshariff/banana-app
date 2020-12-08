@@ -4,11 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Banana App</title>
+    <style>
+        textarea{
+            width: 80%;
+            height: 10vh;
+            margin: 2rem;
+            padding: 2rem;
+            display: block;
+            border: 2px solid black;
+        }
+        #btn-translate{
+            margin: 2rem;
+            border: 2px solid black;
+        }
+        #outputText{
+            height: 10vh;
+            width: 80%;
+            margin: 2rem;
+            padding: 2rem;
+            border: 2px solid black;
+
+        }
+    </style>
 </head>
+
 <body>
-    
 
-
+    <textarea placeholder="Enter the text you want to translate."></textarea>
+    <button id="btn-translate">Translate</button>
+    <h2 style="margin: 2rem;">Ouput Text</h2>
+    <div id="outputText"></div>
     <script src="app.js"></script>
 </body>
 </html>
