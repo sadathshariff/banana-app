@@ -7,7 +7,7 @@ This App Converts text to minion language or i call this as banana language.
 
 you can play using the link below 
 
-[english2minion] (https://english2minion.netlify.app "Minion-Translator")
+[english2minion](https://english2minion.netlify.app "Minion-Translator")
 
 
 ![image](C:\Users\ADMIN\Documents\GitHub\banana-app)
