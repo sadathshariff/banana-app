@@ -9,5 +9,3 @@ you can play using the link below
 
 [english2minion](https://english2minion.netlify.app "Minion-Translator")
 
-
-![image](C:\Users\ADMIN\Documents\GitHub\banana-app)
